@@ -1,6 +1,0 @@
-[submodule "me.bigaston.logger"]
-	path = me.bigaston.logger
-	url = git@github.com:Bigaston/me.bigaston.logger.git
-[submodule "me.bigaston.menu"]
-	path = me.bigaston.menu
-	url = git@github.com:Bigaston/me.bigaston.menu.git
