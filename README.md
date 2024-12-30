@@ -1,5 +1,7 @@
 # GodotAddons
-Some fantastic (no) Godot Addons that you can install with git subrepo
+Some Godot Addons that you can install with git subrepo
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A05WS6)
 
 ## Addons
 ### [Logger](https://github.com/Bigaston/GodotLogger)
