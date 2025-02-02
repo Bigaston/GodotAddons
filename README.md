@@ -7,13 +7,13 @@ Some Godot Addons that you can install with git subrepo
 ### [Logger](https://codeberg.org/Bigaston/GodotLogger)
 This is a Godot Addon to log your data but better
 ```
-git subrepo clone git@github.com:Bigaston/GodotLogger.git addons/me.bigaston.logger
+git subrepo clone git@codeberg.org:Bigaston/GodotLogger.git addons/me.bigaston.logger
 ```
 
 ### [Menu](https://codeberg.org/Bigaston/GodotMenu)
 This is a Godot Addon to manage beaufifull (no) Menu Flow.
 ```
-git subrepo clone git@github.com:Bigaston/GodotMenu.git addons/me.bigaston.menu
+git subrepo clone git@codeberg.org:Bigaston/GodotMenu.git addons/me.bigaston.menu
 ```
 
 ## Misc
